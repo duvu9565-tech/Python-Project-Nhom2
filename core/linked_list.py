@@ -1,4 +1,4 @@
-from core.node import Node 
+from core.node import Nod
 class DoublyLinkedList:
     def __init__(self):
         self.head = None
